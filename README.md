@@ -49,7 +49,10 @@ pytest
 
 ## Deployment
 
-No worry about deployment, you just run it on your console.
+No worry about deployment, you just run it on your console. As easy as:
+```
+python3 app.py
+```
 
 ## Built With
 
