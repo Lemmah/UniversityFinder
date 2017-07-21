@@ -1,5 +1,5 @@
 import unittest
-import universities.university_info
+from universities.university_info import UniversitySearcher
 
 class TestUniversitySearcher(unittest.TestCase):
   ''' Testing the university searcher '''
@@ -9,7 +9,7 @@ class TestUniversitySearcher(unittest.TestCase):
      # TODO:
      # handle errors for responses, look out for empty responses
      self.university_searcher = UniversitySearcher("multi","kenya")
-     self.search = UniversitySearcher.search()
+     self.search = self.university_searcher.search()
   
   def test_search_instance(self):
     ''' Assert if instance of search is creatable '''
