@@ -1,4 +1,5 @@
 import unittest
+import universities.university_info
 
 class TestUniversitySearcher(unittest.TestCase):
   ''' Testing the university searcher '''
