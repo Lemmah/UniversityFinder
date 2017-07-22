@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Lemmah/UniversityFinder.svg?branch=master)](https://travis-ci.org/Lemmah/UniversityFinder)
+
 # UniversityFinder
 
 This simple university finder app is just a console app that can search for any available university in the world.
