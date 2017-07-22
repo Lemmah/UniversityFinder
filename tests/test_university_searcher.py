@@ -10,7 +10,7 @@ class TestUniversitySearcher(unittest.TestCase):
      # handle errors for responses, look out for empty responses
      self.university_searcher = UniversitySearcher("multi","kenya")
      self.search = self.university_searcher.search()
-  
+
   def test_search_instance(self):
     ''' Assert if instance of search is creatable '''
     self.assertEqual(isinstance(self.university_searcher, UniversitySearcher), True)
