@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Lemmah/UniversityFinder.svg?branch=master)](https://travis-ci.org/Lemmah/UniversityFinder)	[![Codacy Badge](https://api.codacy.com/project/badge/Grade/52620290cfe146a88fe7372a026e75ea)](https://www.codacy.com/app/Lemmah/UniversityFinder?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Lemmah/UniversityFinder&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://travis-ci.org/Lemmah/UniversityFinder.svg?branch=master)](https://travis-ci.org/Lemmah/UniversityFinder)	[![Codacy Badge](https://api.codacy.com/project/badge/Grade/52620290cfe146a88fe7372a026e75ea)](https://www.codacy.com/app/Lemmah/UniversityFinder?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Lemmah/UniversityFinder&amp;utm_campaign=Badge_Grade)	[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/lemmah/)
 
 # UniversityFinder
 
