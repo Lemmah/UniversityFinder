@@ -3,9 +3,10 @@ from universities.university_info import UniversitySearcher
 
 def main():
   print("Welcome to the University Searcher.\n")
-  keyword = input("Please enter keyword identifying university: ")
-  country = input("Please enter country (press enter if not sure):")
+  keyword = input("Please enter keyword identifying university: ").strip()
+  country = input("Please enter country (press enter if not sure):").strip()
   try:
+    print("Please wait as we query our database.")
     if len(country) == 0:
       country = None
     search_instance = UniversitySearcher(keyword, country)
